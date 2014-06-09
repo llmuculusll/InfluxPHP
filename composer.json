@@ -1,5 +1,5 @@
 {
-    "name": "llmuculusll/influxPHP",
+    "name": "llmuculusll/influx-php",
     "description": "Simple client for InfluxDB",
     "license": "BSD",
     "authors": [
