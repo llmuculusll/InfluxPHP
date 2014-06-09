@@ -9,7 +9,7 @@ How to install it
 The easiest way is to install it via [composer](http://getcomposer.org)
 
 ```bash
-composer require crodas/influx-php:\*
+composer require crodas/influx-php:dev-master
 ```
 
 How to use it
